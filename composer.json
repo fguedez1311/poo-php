@@ -1,0 +1,16 @@
+{
+    "name": "fguedez/poo",
+    "type": "yes",
+    "autoload": {
+        "psr-4": {
+            "Fguedez\\Poo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "fguedez",
+            "email": "fguedez1311@gmail.com"
+        }
+    ],
+    "require": {}
+}
